@@ -3,7 +3,7 @@
 ### Clone the repo
 
 ```bash
-git clone https://github.com/sungkimcastro/sorting-algo.git
+git clone https://github.com/sj-kc/sorting-algo.git
 ```
 
 ### Install dependencies
