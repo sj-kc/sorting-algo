@@ -20,4 +20,4 @@ yarn dev-server
 
 ### Deployed 🚀:
 
-https://sungkimcastro.github.io/sorting-algo/
+https://sj-kc.github.io/sorting-algo/
